@@ -1,0 +1,21 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+    text-align: center;
+    opacity: 70%;
+    border-top: 10px rgb(0,195,99);
+}
+.text-muted {
+    color: #6c757d;
+}
+/* For Screens larger than normal window */
+@media(min-width:999px){
+    .footer
+    {position: fixed;
+    }
+
+}

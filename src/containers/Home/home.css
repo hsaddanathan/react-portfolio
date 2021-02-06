@@ -34,6 +34,7 @@ h4 {
 /* Margin for paragraph tag */
 .bio {
   margin: 20px;
+  line-height: 1.6;
 }
 
 .links {
