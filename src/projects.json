@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Code Crushers: Survive The Banana Force",
+        "image": "{codeCrushersImage}",
+        "repo": "https://github.com/hsaddanathan/code-crushers-survive-the-banana-force",
+        "url": "https://limitless-bastion-03523.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "Know Before You Go - City Relocator",
+        "image": "{knowBeforeImage}",
+        "repo": "https://github.com/hsaddanathan/know-before-you-go",
+        "url": "https://hsaddanathan.github.io/know-before-you-go/"
+    },
+    {
+        "id": 3,
+        "name": "Employee Directory",
+        "image": "{employeeImage}",
+        "repo": "https://github.com/hsaddanathan/employee-directory-react",
+        "url": "https://hsaddanathan.github.io/know-before-you-go/"
+    },
+    {
+        "id": 4,
+        "name": "Hamburgerlar's Paradise",
+        "image": "{hamburgerImage}",
+        "repo": "https://github.com/hsaddanathan/hamburgerlars-paradise",
+        "url": "https://hamburgerlar-paradise.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "name": "Workday Scheduler",
+        "image": "{workdayImage}",
+        "repo": "https://github.com/hsaddanathan/work-day-scheduler",
+        "url": "https://hsaddanathan.github.io/work-day-scheduler/"
+    },
+    {
+        "id": 6,
+        "name": "Multicity Weather Dashboard",
+        "image": "{weatherImage}",
+        "repo": "https://github.com/hsaddanathan/multicity-weather-dashboard",
+        "url": "https://hsaddanathan.github.io/multicity-weather-dashboard/"
+    }
+]
