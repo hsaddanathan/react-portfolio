@@ -1,0 +1,50 @@
+body {
+  background-image: url(../../media/wallpaperflare.com_wallpaper.jpg);
+  background-color: rgb(235, 235, 235);
+}
+.content {
+  background-color: rgb(248, 249, 250);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+.content-header {
+  padding: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(0, 195, 99);
+  font-weight: 600;
+  line-height: 2;
+}
+h4 {
+  justify-content: center;
+  text-align: center;
+  color: rgb(0, 195, 99);
+}
+
+/* Image */
+.self {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+/* Margin for paragraph tag */
+.bio {
+  margin: 20px;
+}
+
+.links {
+  color: rgb(0, 195, 99);
+}
+
+.links:hover {
+  color: rgb(0, 131, 65);
+}
+/* Portfolio Page Specific CSS */
+
+/* Image formatting */
+.images {
+  width: 98%;
+  display: inline-block;
+  margin: 15px auto;
+  border: 1px solid rgb(0, 195, 99);
+}
