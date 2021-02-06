@@ -2,42 +2,42 @@
     {
         "id": 1,
         "name": "Code Crushers: Survive The Banana Force",
-        "image": "{codeCrushersImage}",
+        "image": "https://res.cloudinary.com/kayilan/image/upload/v1612599914/portfolio%20images/code-crushers_ovxus6.png",
         "repo": "https://github.com/hsaddanathan/code-crushers-survive-the-banana-force",
         "url": "https://limitless-bastion-03523.herokuapp.com/"
     },
     {
         "id": 2,
         "name": "Know Before You Go - City Relocator",
-        "image": "{knowBeforeImage}",
+        "image": "https://res.cloudinary.com/kayilan/image/upload/v1612599914/portfolio%20images/project-1_zhfg4t.png",
         "repo": "https://github.com/hsaddanathan/know-before-you-go",
         "url": "https://hsaddanathan.github.io/know-before-you-go/"
     },
     {
         "id": 3,
-        "name": "Employee Directory",
-        "image": "{employeeImage}",
+        "name": "Employee Directory - React Application",
+        "image": "https://res.cloudinary.com/kayilan/image/upload/v1612599914/portfolio%20images/employee-directory_fqqol7.png",
         "repo": "https://github.com/hsaddanathan/employee-directory-react",
-        "url": "https://hsaddanathan.github.io/know-before-you-go/"
+        "url": "https://hsaddanathan.github.io/employee-directory-react/"
     },
     {
         "id": 4,
         "name": "Hamburgerlar's Paradise",
-        "image": "{hamburgerImage}",
+        "image": "https://res.cloudinary.com/kayilan/image/upload/v1612599914/portfolio%20images/heroku-page_ufdvoa.png",
         "repo": "https://github.com/hsaddanathan/hamburgerlars-paradise",
         "url": "https://hamburgerlar-paradise.herokuapp.com/"
     },
     {
         "id": 5,
         "name": "Workday Scheduler",
-        "image": "{workdayImage}",
+        "image": "https://res.cloudinary.com/kayilan/image/upload/v1612599914/portfolio%20images/workday-scheduler_c7alhc.png",
         "repo": "https://github.com/hsaddanathan/work-day-scheduler",
         "url": "https://hsaddanathan.github.io/work-day-scheduler/"
     },
     {
         "id": 6,
-        "name": "Multicity Weather Dashboard",
-        "image": "{weatherImage}",
+        "name": "Weather Dashboard",
+        "image": "https://res.cloudinary.com/kayilan/image/upload/v1612599914/portfolio%20images/multicity-weather_iwy1rg.png",
         "repo": "https://github.com/hsaddanathan/multicity-weather-dashboard",
         "url": "https://hsaddanathan.github.io/multicity-weather-dashboard/"
     }

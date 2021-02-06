@@ -2,6 +2,9 @@ body {
   background-image: url(../../media/wallpaperflare.com_wallpaper.jpg);
   background-color: rgb(235, 235, 235);
 }
+.container{
+  justify-content: center;
+}
 .content {
   background-color: rgb(248, 249, 250);
   margin-top: 50px;
@@ -14,6 +17,7 @@ body {
   color: rgb(0, 195, 99);
   font-weight: 600;
   line-height: 2;
+  text-align: center;
 }
 h4 {
   justify-content: center;

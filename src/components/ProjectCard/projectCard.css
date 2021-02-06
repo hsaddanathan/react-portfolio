@@ -1,0 +1,8 @@
+.card-title{
+    color: rgb(0, 195, 99);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: 600;
+}
+.card{
+    border: 3px solid rgb(0,195,99) !important;
+}

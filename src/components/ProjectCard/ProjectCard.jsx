@@ -1,16 +1,16 @@
 import React from "react";
-
+import "./projectCard.css"
 const ProjectCard = ({ id, name, image, repo, url }) => {
   return (
     <div className="col-md-4 col-sm-6 my-4" key={id}>
-      <div class="card text-center">
-        <img src={image} class="card-img-top" alt={name} />
-        <div class="card-body">
-          <h5 class="card-title">{name}</h5>
-          <a href={url} class="btn btn-primary">
+      <div className="card text-center">
+        <img src={image} className="card-img-top" alt={name} height="250" width="400" />
+        <div className="card-body">
+          <h5 className="card-title">{name}</h5>
+          <a href={url} className="btn btn-primary mx-2">
             View Project
           </a>
-          <a href={repo} class="btn btn-secondary">
+          <a href={repo} className="btn btn-secondary mx-2">
             GitHub Repo
           </a>
         </div>

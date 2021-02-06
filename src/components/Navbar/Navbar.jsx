@@ -5,7 +5,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="d-flex flex-grow-1">
-          <a className="navbar-brand" href="index.html">
+          <a className="navbar-brand" href="/">
             <h3 className="name">
               <strong>Harsha Saddanathan</strong>
             </h3>
@@ -28,17 +28,17 @@ const Navbar = () => {
           {/* <!-- Nav Links --> */}
           <ul className="navbar-nav ml-auto flex-nowrap">
             <li className="nav-item">
-              <a className="nav-link" href="contact.html">
+              <a className="nav-link" href="/contact">
                 Contact
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="portfolio.html">
+              <a className="nav-link" href="/portfolio">
                 Portfolio
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="index.html">
+              <a className="nav-link" href="/">
                 About
               </a>
             </li>

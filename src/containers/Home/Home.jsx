@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <div className="container">
       <div className="row">
+        <div className="col-md-2"></div>
         <div className="col-md-8">
           <section className="content">
             <h1 className="content-header">About Me</h1>
@@ -73,6 +74,7 @@ const Home = () => {
               </ul>
           </section>
         </div>
+        <div className="col-md-2"></div>
       </div>
     </div>
   );
