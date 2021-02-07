@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.057931f1.chunk.css",
+    "main.js": "/static/js/main.46f9c1ce.chunk.js",
+    "main.js.map": "/static/js/main.46f9c1ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d4d06a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d4d06a3.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.3e75c466.chunk.js": "/static/js/2.3e75c466.chunk.js",
+    "static/js/2.3e75c466.chunk.js.map": "/static/js/2.3e75c466.chunk.js.map",
+    "static/js/3.07451f60.chunk.js": "/static/js/3.07451f60.chunk.js",
+    "static/js/3.07451f60.chunk.js.map": "/static/js/3.07451f60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.057931f1.chunk.css.map": "/static/css/main.057931f1.chunk.css.map",
+    "static/js/2.3e75c466.chunk.js.LICENSE.txt": "/static/js/2.3e75c466.chunk.js.LICENSE.txt",
+    "static/media/HarshaSaddanathanResume022021.440e1b69.pdf": "/static/media/HarshaSaddanathanResume022021.440e1b69.pdf",
+    "static/media/harsha.98bcbccd.jpg": "/static/media/harsha.98bcbccd.jpg",
+    "static/media/home.css": "/static/media/wallpaperflare.com_wallpaper.f045250b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4d06a3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3e75c466.chunk.js",
+    "static/css/main.057931f1.chunk.css",
+    "static/js/main.46f9c1ce.chunk.js"
+  ]
+}
