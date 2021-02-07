@@ -3,8 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Home from "./containers/Home/Home";
 import Portfolio from "./containers/Portfolio/Portfolio";
+import Contact from "./containers/Contact/Contact";
 import Footer from "./components/Footer/Footer";
-import Contact from "./containers/Contact/Contact"
+
 function App() {
   return (
     <Router>
