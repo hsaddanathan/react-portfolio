@@ -2,7 +2,7 @@ import React from "react";
 import "./footer.css"
 const Footer = () => {
   return (
-    <div>
+    <div className="footer-container">
       <footer className="footer">
         <div className="container">
           <span className="text-muted">
