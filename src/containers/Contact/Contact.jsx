@@ -10,11 +10,11 @@ const Contact = () => {
       <div className="row">
         <div className="col-md-8">
           <section className="content">
-            <h1 className="content-header">Contact</h1>
+            <h1 className="content-header text-center">Contact</h1>
             <hr />
             <form action="https://formspree.io/f/xleovokv" method="POST">
               <div className="form-row">
-                <div className="col-md-9 contact-fields">
+                <div className="col-md-9 contact-fields mt-3">
                   <label for="formGroupExampleInput">Name</label>
                   <input
                     type="text"
@@ -25,7 +25,7 @@ const Contact = () => {
                     onChange={(e) => setName(e.target.value)}
                   />
                 </div>
-                <div className="col-md-9 contact-fields">
+                <div className="col-md-9 contact-fields mt-4">
                   <label for="formGroupExampleInput2">Email</label>
                   <input
                     type="text"
@@ -36,7 +36,7 @@ const Contact = () => {
                     onChange={(e) => setEmail(e.target.value)}
                   />
                 </div>
-                <div className="col-md-9 contact-fields">
+                <div className="col-md-9 contact-fields mt-4">
                   <label for="exampleFormControlTextarea1">Message</label>
                   <textarea
                     className="form-control"
@@ -51,7 +51,7 @@ const Contact = () => {
                 <div className="col-md-8 contact-fields">
                   <button
                     type="submit"
-                    className="btn btn-primary submit-button"
+                    className="btn btn-primary submit-button mt-4"
                   >
                     Submit
                   </button>
