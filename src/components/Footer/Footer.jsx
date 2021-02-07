@@ -3,11 +3,9 @@ import "./footer.css"
 const Footer = () => {
   return (
     <div className="footer-container">
-      <footer className="footer">
-        <div className="container">
+      <div className="footer">
           &copy; Copyright by Harsha Saddanathan 2021
-        </div>
-      </footer>
+      </div>
     </div>
   );
 };
