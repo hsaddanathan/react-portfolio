@@ -1,36 +1,58 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Contact = () => {
-  
-  
-    return (
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <section class="content">
-            <h1 class="content-header">Contact</h1>
+  const [name, setName] = useState();
+  const [email, setEmail] = useState();
+  const [message, setMessage] = useState();
+
+  return (
+    <div className="container">
+      <div className="row">
+        <div className="col-md-8">
+          <section className="content">
+            <h1 className="content-header">Contact</h1>
             <hr />
-            <form>
-              <div class="form-row">
-                <div class="col-md-9 contact-fields">
+            <form action="https://formspree.io/f/xleovokv" method="POST">
+              <div className="form-row">
+                <div className="col-md-9 contact-fields">
                   <label for="formGroupExampleInput">Name</label>
-                  <input type="text" class="form-control" placeholder="Name" />
+                  <input
+                    type="text"
+                    className="form-control"
+                    placeholder="Name"
+                    name="name"
+                    value={name}
+                    onChange={(e) => setName(e.target.value)}
+                  />
                 </div>
-                <div class="col-md-9 contact-fields">
+                <div className="col-md-9 contact-fields">
                   <label for="formGroupExampleInput2">Email</label>
-                  <input type="text" class="form-control" placeholder="Email" />
+                  <input
+                    type="text"
+                    className="form-control"
+                    placeholder="Email"
+                    name="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                  />
                 </div>
-                <div class="col-md-9 contact-fields">
+                <div className="col-md-9 contact-fields">
                   <label for="exampleFormControlTextarea1">Message</label>
                   <textarea
-                    class="form-control"
+                    className="form-control"
                     id="exampleFormControlTextarea1"
                     rows="3"
                     placeholder="Message"
+                    name="message"
+                    value={message}
+                    onChange={(e) => setMessage(e.target.value)}
                   ></textarea>
                 </div>
-                <div class="col-md-8 contact-fields">
-                  <button type="submit" class="btn btn-primary submit-button">
+                <div className="col-md-8 contact-fields">
+                  <button
+                    type="submit"
+                    className="btn btn-primary submit-button"
+                  >
                     Submit
                   </button>
                 </div>
