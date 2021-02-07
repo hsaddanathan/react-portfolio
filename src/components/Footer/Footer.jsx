@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="footer-container">
       <footer className="footer">
         <div className="container">
-          <i className="far fa-copyright fa-lg"> Copyright by Harsha Saddanathan 2021</i>
+          &copy; Copyright by Harsha Saddanathan 2021
         </div>
       </footer>
     </div>
