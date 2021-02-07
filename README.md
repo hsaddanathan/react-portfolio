@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Summary
+In this assignment, we were tasked with creating a Portfolio using React.
+## Instruction
 
-## Available Scripts
+Navigate to the following Github repository:
+    https://github.com/hsaddanathan/react-portfolio
 
-In the project directory, you can run:
+Across the top of the page, click on the Fork button on the right.
 
-### `npm start`
+Once you have done this, you will see the repo copied within your Github account
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Click the Green "Code" Button, and copy repo link. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Open Terminal and run "git clone (Paste Link Here)"
 
-### `npm test`
+Once repo has been cloned, you can run " code ." to open in Visual Studio Code. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+From there, open your terminal inside VS Code by using the keyboard shortcut "Ctrl + `. 
 
-### `npm run build`
+Next, type "npm install" to install dependencies.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Once you have done this, type "npm start".
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Then, you can navigate to http://localhost:3000. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Alternatively, you can navigate to https://hsaddanathan.github.io/react-portfolio/ and view my portfolio from there.
 
-### `npm run eject`
+## Technology Used
+    * node.js
+    * Javascript
+    * React
+    * React-Router-DOM
+    * Form Spree
+    
+## Demo
+![About Page](src/media/about.png)
+![Portfolio](src/media/portfolio.png)
+![Contact](src/media/contact.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Links
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+React Portfolio Github Pages URL:
+    https://hsaddanathan.github.io/react-portfolio
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+React Portfolio GitHub Repo:
+    https://github.com/hsaddanathan/react-portfolio
 
-## Learn More
+## Contributors 
+[@hsaddanathan](https://github.com/hsaddanathan)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
