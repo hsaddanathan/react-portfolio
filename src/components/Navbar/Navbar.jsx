@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="d-flex flex-grow-1">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/react-portfolio">
             <h3 className="name">
               <strong>Harsha Saddanathan</strong>
             </h3>
