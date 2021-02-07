@@ -8,6 +8,7 @@
     text-align: center;
     opacity: 70%;
     border-top: 10px rgb(0,195,99);
+    display: block;
 }
 .text-muted {
     color: #6c757d;
