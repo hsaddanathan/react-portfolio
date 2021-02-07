@@ -39,7 +39,7 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/react-portfolio">
+              <Link className="nav-link" to="/">
                 About
               </Link>
             </li>
