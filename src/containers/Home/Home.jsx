@@ -65,7 +65,7 @@ const Home = () => {
                 <li>
                   <a
                     href={resume}
-                    download="HarshaSaddanathanResume022021"
+                    download="HarshaSaddanathanResume"
                     className="links"
                   >
                     <strong>Download Resume</strong>
