@@ -1,7 +1,7 @@
 import React from "react";
 import "./home.css";
 import harshaImage from "../../media/harsha.jpg"
-import resume from "../../media/HarshaSaddanathanResume022021.pdf"
+import resume from "../../media/HarshaSaddanathanResume.pdf"
 const Home = () => {
   return (
     <div className="container">
